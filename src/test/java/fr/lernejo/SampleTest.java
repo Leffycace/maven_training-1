@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class SampleTest {
+public class SampleTest {
     @Test
     void dividing_by_zero_should_produce_an_exception() {
         int dividend = 10;
